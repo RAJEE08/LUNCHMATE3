@@ -1,0 +1,232 @@
+body{
+  box-sizing: border-box;
+  color: white;
+  background-image: url(foodimg.jpg);
+}
+
+.Page{
+ 
+  background-position: cover;
+  align-items: center;
+  height: 700px;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+
+.Form{
+  background-color: rgba(255, 255, 255, 0.242);
+  margin-left: 12cm;
+  margin-top: 3cm;
+  width: 700px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 2%;
+  align-items: center;
+}
+
+.Form1{
+  background-color: rgba(255, 255, 255, 0.242);
+  margin-left: 12cm;
+  margin-top: 4cm;
+  width: 700px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 2%;
+  align-items: center;
+}
+
+.Email{
+  margin-left: 1.4cm;
+}
+
+.Content{
+  margin-left: cm;
+  margin-top: 1cm;
+}
+
+.Mp{
+  margin-left: 8cm;
+}
+
+.Email2{
+  margin-top: 20px;
+  margin-left: 0.3cm;
+}
+
+.Email3{
+  margin-left: -0.3cm;
+}
+
+.Email4 #title{
+  margin-left: 50cm;
+}
+
+.New #qstn{
+  margin-left: px;
+  padding:15px;
+  color: black;
+}
+
+.New #new{
+  color:darkred;
+  background-color: rgba(240, 248, 255, 0);
+  border: none;
+}
+
+.Email #frgtpswrd{
+  color:rgb(213, 87, 65);
+  background-color: rgba(240, 248, 255, 0);
+  border: none;
+  font-weight: bold;
+}
+
+.Form #title{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  margin-left: 50px;
+  padding-bottom: 50px;
+}
+
+.Form1 #title{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  padding-bottom: 50px;
+  margin-left:5cm;
+}
+
+.Titlefp{
+  margin-left: -cm;
+}
+
+.Titlefp #ex{
+  font-size: 45px;
+  margin-left: 2.4cm;
+  color: tomato;
+}
+
+.Form #title1{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  margin-left: 45px;
+  padding-bottom: 50px;
+}
+
+.Form #title2{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  margin-left: 20px;
+}
+
+.Fm{
+  margin-top: 0px;
+  margin-left: 1px;
+}
+
+.Form #tb{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form1 #tb{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form1 #tb3{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  margin-left: 15ch;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form #tb1{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  margin-left: -5px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form #tb2{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  margin-left: 70px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form #li{
+  margin-left: 50px;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Form1 #li{
+  margin-left: 5.5cm;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Form #li2{
+  margin-left: 49px;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Form #li3{
+  margin-left: 118px;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input{
+  font-size: large;
+  size: 25px;
+  border-radius: 20%;
+  margin: auto;
+  margin-top: 10px;
+  height: 10px;
+  padding: 30px;
+}
